@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DJNIGGERBEATS
+- 👋 Hi, I’m Jack Francis
 - 👀 I’m interested in : NOTING
 - 🌱 I’m currently learning : C#
 - 💞️ I’m looking to collaborate on : NOTHING
-- 📫 How to reach me : s@sh.network
+- 📫 How to reach me : snz@sh.network
 
